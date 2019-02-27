@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "firebase-gateway.verify-token-path",
+    "type": "java.lang.String",
+    "description": "A description for 'firebase-gateway.verify-token-path'"
+  },
+  {
+    "name": "firebase-gateway.url",
+    "type": "java.lang.String",
+    "description": "A description for 'firebase-gateway.url'"
+  },
+  {
+    "name": "app.security.client-id",
+    "type": "java.lang.String",
+    "description": "A description for 'app.security.client-id'"
+  },
+  {
+    "name": "app.security.client-secret",
+    "type": "java.lang.String",
+    "description": "A description for 'app.security.client-secret'"
+  },
+  {
+    "name": "app.signin-key",
+    "type": "java.lang.String",
+    "description": "A description for 'app.signin-key'"
+  }
+]}
